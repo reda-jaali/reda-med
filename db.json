@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin Epicerie",
+      "email": "admin@epicerie.com",
+      "password": "admin123",
+      "role": "admin",
+      "createdAt": "2026-01-01T10:00:00.000Z"
+    },
+    {
+      "id": 1768560524130,
+      "name": "rachid zibouli",
+      "email": "ziboulimohamed22@gmail.com",
+      "password": "1234567",
+      "role": "employe",
+      "createdAt": "2026-01-16T10:48:44.130Z"
+    }
+  ],
+  "customers": [
+    {
+      "name": "Reda Jaali",
+      "phone": "0644496104",
+      "address": "Hay lhassani nº8",
+      "email": "samirjaali31@gmail.com",
+      "balance": 0,
+      "isActive": true,
+      "status": "active",
+      "createdAt": "2026-01-18T15:35:51.220Z",
+      "transactions": [],
+      "id": 1768750551220,
+      "purchases": [
+        {
+          "productName": "cc",
+          "price": 9,
+          "quantity": 1,
+          "id": 1768750574259,
+          "date": "2026-01-18T15:36:14.259Z"
+        }
+      ],
+      "lastPurchaseDate": "2026-01-18T15:36:14.260Z",
+      "lastPaymentDate": "2026-01-18T15:36:24.899Z",
+      "reopenedDate": "2026-01-18T15:36:29.696Z"
+    }
+  ],
+  "products": [],
+  "transactions": []
+}
