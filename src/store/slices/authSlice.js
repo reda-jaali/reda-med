@@ -59,12 +59,6 @@ export const register = createAsyncThunk(
     try {
       console.log('Tentative d\'inscription:', userData);
       
-      // Rôle fixe : tous les nouveaux utilisateurs sont employés
-      const userWithFixedRole = {
-        ...userData,
-        role: 'employe' // Rôle fixe pour tous les nouveaux utilisateurs
-      };
-      
       // Vérifier d'abord si l'email existe déjà
       const usersResponse = await api.get('/users');
       const existingUser = usersResponse.data.find(u => u.email === userData.email);
