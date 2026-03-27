@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reda-med/static/css/main.54343e24.css",
+    "main.js": "/reda-med/static/js/main.6a21dacd.js",
+    "index.html": "/reda-med/index.html",
+    "main.54343e24.css.map": "/reda-med/static/css/main.54343e24.css.map",
+    "main.6a21dacd.js.map": "/reda-med/static/js/main.6a21dacd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54343e24.css",
+    "static/js/main.6a21dacd.js"
+  ]
+}
