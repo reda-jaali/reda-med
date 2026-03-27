@@ -41,6 +41,19 @@
       "lastPurchaseDate": "2026-01-18T15:36:14.260Z",
       "lastPaymentDate": "2026-01-18T15:36:24.899Z",
       "reopenedDate": "2026-01-18T15:36:29.696Z"
+    },
+    {
+      "name": "amine rca",
+      "phone": "0644496104",
+      "address": "med5",
+      "email": "aminrca68@gmail.com",
+      "balance": 0,
+      "isActive": true,
+      "status": "active",
+      "createdAt": "2026-01-26T12:20:53.851Z",
+      "transactions": [],
+      "id": 1769430053851,
+      "purchases": []
     }
   ],
   "products": [],
